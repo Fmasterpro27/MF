@@ -33,5 +33,5 @@ A private Discord bot for fun interactions and moderation in authorized servers 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mf-bot.git
+git clone https://github.com/Fmasterpro27/MF.git
 cd mf-bot
