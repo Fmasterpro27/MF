@@ -1,0 +1,11 @@
+=== BOT TERMS OF SERVICE ===
+
+1. This bot is strictly for private use in authorized servers only
+2. Any public use or distribution is prohibited
+3. All moderation actions are logged
+4. The bot owner reserves the right to:
+   - Ban users from using the bot
+   - Remove the bot from servers
+   - Update these terms without notice
+
+By using this bot, you agree to these terms.
