@@ -38,7 +38,7 @@ class AcceptTerms(View):
 class Moderation(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
-        self.allowed_servers = [server id]  # Your server IDs
+        self.allowed_servers = ["your server id"]  # Your server IDs
 
     async def cog_check(self, ctx):
         if ctx.guild.id not in self.allowed_servers:
