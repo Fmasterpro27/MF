@@ -88,7 +88,7 @@ class Autoplay(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
         self.autoplay_users = set()
-        self.allowed_servers = [1371008422581108766, 987654321]  # Your server IDs
+        self.allowed_servers = [server id]  # Your server IDs
         
         with open('data/responses.json', 'r') as f:
             data = json.load(f)
